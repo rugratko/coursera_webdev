@@ -3,7 +3,7 @@ import json
 import datetime
 from collections import OrderedDict
 
-ACCESS_TOKEN = '9de138989de138989de138986f9d93d6d899de19de13898c2e2bb0cf4f436148abfebd9'
+ACCESS_TOKEN = ''
 
 def get_user_info(UID, FIELDS = 'bdate'):
     #Для получения id пользователя по username или user_id:
